@@ -1,0 +1,496 @@
+{
+	"makes": [{
+			"i": 140,
+			"n": "Abarth"
+		},
+		{
+			"i": 203,
+			"n": "AC"
+		},
+		{
+			"i": 375,
+			"n": "Acura"
+		},
+		{
+			"i": 800,
+			"n": "Aixam"
+		},
+		{
+			"i": 900,
+			"n": "Alfa Romeo",
+			"start_from": 198304
+		},
+		{
+			"i": 1100,
+			"n": "ALPINA"
+		},
+		{
+			"i": 121,
+			"n": "Artega"
+		},
+		{
+			"i": 1750,
+			"n": "Asia Motors"
+		},
+		{
+			"i": 1700,
+			"n": "Aston Martin",
+			"start_from": 199701
+		},
+		{
+			"i": 1900,
+			"n": "Audi",
+			"start_from": 198008
+		},
+		{
+			"i": 2000,
+			"n": "Austin"
+		},
+		{
+			"i": 1950,
+			"n": "Austin Healey"
+		},
+		{
+			"i": 3100,
+			"n": "Bentley",
+			"start_from": 199810
+		},
+		{
+			"i": 3500,
+			"n": "BMW"
+		},
+		{
+			"i": 3850,
+			"n": "Borgward"
+		},
+		{
+			"i": 4025,
+			"n": "Brilliance"
+		},
+		{
+			"i": 4350,
+			"n": "Bugatti",
+			"start_from": 199303
+		},
+		{
+			"i": 4400,
+			"n": "Buick",
+			"start_from": 199303
+		},
+		{
+			"i": 4700,
+			"n": "Cadillac"
+		},
+		{
+			"i": 112,
+			"n": "Casalini"
+		},
+		{
+			"i": 5300,
+			"n": "Caterham",
+			"start_from": 198804
+		},
+		{
+			"i": 83,
+			"n": "Chatenet",
+			"start_from": 198005
+		},
+		{
+			"i": 5600,
+			"n": "Chevrolet",
+			"start_from": 198407
+		},
+		{
+			"i": 5700,
+			"n": "Chrysler"
+		},
+		{
+			"i": 5900,
+			"n": "Citroën"
+		},
+		{
+			"i": 6200,
+			"n": "Cobra"
+		},
+		{
+			"i": 6325,
+			"n": "Corvette"
+		},
+		{
+			"i": 6600,
+			"n": "Dacia",
+			"start_from": 198008
+		},
+		{
+			"i": 6800,
+			"n": "Daewoo"
+		},
+		{
+			"i": 7000,
+			"n": "Daihatsu",
+			"start_from": 198304
+		},
+		{
+			"i": 7400,
+			"n": "DeTomaso"
+		},
+		{
+			"i": 7700,
+			"n": "Dodge",
+			"start_from": 199109
+		},
+		{
+			"i": 255,
+			"n": "Donkervoort"
+		},
+		{
+			"i": 235,
+			"n": "DS Automobiles"
+		},
+		{
+			"i": 8600,
+			"n": "Ferrari"
+		},
+		{
+			"i": 8800,
+			"n": "Fiat",
+			"start_from": 198010
+		},
+		{
+			"i": 172,
+			"n": "Fisker",
+			"start_from": 198301
+		},
+		{
+			"i": 9000,
+			"n": "Ford",
+			"start_from": 198805
+		},
+		{
+			"i": 205,
+			"n": "GAC Gonow",
+			"start_from": 198002
+		},
+		{
+			"i": 204,
+			"n": "Gemballa",
+			"start_from": 197311
+		},
+		{
+			"i": 9900,
+			"n": "GMC",
+			"start_from": 199904
+		},
+		{
+			"i": 122,
+			"n": "Grecav"
+		},
+		{
+			"i": 186,
+			"n": "Hamann",
+			"start_from": 199601
+		},
+		{
+			"i": 10850,
+			"n": "Holden"
+		},
+		{
+			"i": 11000,
+			"n": "Honda"
+		},
+		{
+			"i": 11050,
+			"n": "Hummer",
+			"start_from": 198204
+		},
+		{
+			"i": 11600,
+			"n": "Hyundai",
+			"start_from": 198001
+		},
+		{
+			"i": 11650,
+			"n": "Infiniti",
+			"start_from": 198102
+		},
+		{
+			"i": 11900,
+			"n": "Isuzu",
+			"start_from": 198301
+		},
+		{
+			"i": 12100,
+			"n": "Iveco",
+			"start_from": 198001
+		},
+		{
+			"i": 12400,
+			"n": "Jaguar",
+			"start_from": 199303			
+		},
+		{
+			"i": 12600,
+			"n": "Jeep",
+			"start_from": 197706
+		},
+		{
+			"i": 13200,
+			"n": "Kia"
+		},
+		{
+			"i": 13450,
+			"n": "Koenigsegg"
+		},
+		{
+			"i": 13900,
+			"n": "KTM"
+		},
+		{
+			"i": 14400,
+			"n": "Lada"
+		},
+		{
+			"i": 14600,
+			"n": "Lamborghini",
+			"start_from": 197806
+		},
+		{
+			"i": 14700,
+			"n": "Lancia",
+			"start_from": 199701
+		},
+		{
+			"i": 14800,
+			"n": "Land Rover",
+			"start_from": 198101
+		},
+		{
+			"i": 14845,
+			"n": "Landwind"
+		},
+		{
+			"i": 15200,
+			"n": "Lexus",
+			"start_from": 198404
+		},
+		{
+			"i": 15400,
+			"n": "Ligier",
+			"start_from": 198309
+		},
+		{
+			"i": 15500,
+			"n": "Lincoln",
+			"start_from": 199602
+		},
+		{
+			"i": 15900,
+			"n": "Lotus",
+			"start_from": 198411
+		},
+		{
+			"i": 16200,
+			"n": "Mahindra",
+			"start_from": 198205
+		},
+		{
+			"i": 16600,
+			"n": "Maserati"
+		},
+		{
+			"i": 16700,
+			"n": "Maybach"
+		},
+		{
+			"i": 16800,
+			"n": "Mazda",
+			"start_from": 198209
+		},
+		{
+			"i": 137,
+			"n": "McLaren",
+			"start_from": 197501			
+		},
+		{
+			"i": 17200,
+			"n": "Mercedes-Benz"
+		},
+		{
+			"i": 17300,
+			"n": "MG",
+			"start_from": 198308
+		},
+		{
+			"i": 30011,
+			"n": "Microcar"
+		},
+		{
+			"i": 17500,
+			"n": "MINI"
+		},
+		{
+			"i": 17700,
+			"n": "Mitsubishi"
+		},
+		{
+			"i": 17900,
+			"n": "Morgan"
+		},
+		{
+			"i": 18700,
+			"n": "Nissan"
+		},
+		{
+			"i": 18875,
+			"n": "NSU"
+		},
+		{
+			"i": 18975,
+			"n": "Oldsmobile"
+		},
+		{
+			"i": 19000,
+			"n": "Opel"
+		},
+		{
+			"i": 149,
+			"n": "Pagani"
+		},
+		{
+			"i": 19300,
+			"n": "Peugeot"
+		},
+		{
+			"i": 19600,
+			"n": "Piaggio"
+		},
+		{
+			"i": 19800,
+			"n": "Plymouth"
+		},
+		{
+			"i": 20000,
+			"n": "Pontiac"
+		},
+		{
+			"i": 20100,
+			"n": "Porsche"
+		},
+		{
+			"i": 20200,
+			"n": "Proton"
+		},
+		{
+			"i": 20700,
+			"n": "Renault"
+		},
+		{
+			"i": 21600,
+			"n": "Rolls-Royce"
+		},
+		{
+			"i": 21700,
+			"n": "Rover"
+		},
+		{
+			"i": 125,
+			"n": "Ruf"
+		},
+		{
+			"i": 21800,
+			"n": "Saab"
+		},
+		{
+			"i": 22000,
+			"n": "Santana"
+		},
+		{
+			"i": 22500,
+			"n": "Seat"
+		},
+		{
+			"i": 22900,
+			"n": "Skoda"
+		},
+		{
+			"i": 23000,
+			"n": "Smart"
+		},
+		{
+			"i": 188,
+			"n": "speedART"
+		},
+		{
+			"i": 100,
+			"n": "Spyker"
+		},
+		{
+			"i": 23100,
+			"n": "Ssangyong"
+		},
+		{
+			"i": 23500,
+			"n": "Subaru"
+		},
+		{
+			"i": 23600,
+			"n": "Suzuki"
+		},
+		{
+			"i": 23800,
+			"n": "Talbot"
+		},
+		{
+			"i": 23825,
+			"n": "Tata"
+		},
+		{
+			"i": 189,
+			"n": "TECHART"
+		},
+		{
+			"i": 135,
+			"n": "Tesla"
+		},
+		{
+			"i": 24100,
+			"n": "Toyota"
+		},
+		{
+			"i": 24200,
+			"n": "Trabant"
+		},
+		{
+			"i": 24400,
+			"n": "Triumph"
+		},
+		{
+			"i": 24500,
+			"n": "TVR"
+		},
+		{
+			"i": 25200,
+			"n": "Volkswagen"
+		},
+		{
+			"i": 25100,
+			"n": "Volvo"
+		},
+		{
+			"i": 25300,
+			"n": "Wartburg"
+		},
+		{
+			"i": 113,
+			"n": "Westfield"
+		},
+		{
+			"i": 25650,
+			"n": "Wiesmann"
+		},
+		{
+			"i": 1400,
+			"n": "Other"
+		}
+	]
+}
